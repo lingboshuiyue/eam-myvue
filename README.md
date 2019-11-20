@@ -1,7 +1,8 @@
 # eam-myvue
 资产管理系统前端界面
 
-基于 vue-element-admin 开源项目进行二次开发
+基于开源项目 https://github.com/PanJiaChen/vue-element-admin 进行二次开发
+
 
 使用教程：
 ## 克隆项目
@@ -18,3 +19,5 @@ npm install --registry=https://registry.npm.taobao.org
 
 ## 启动服务
 npm run dev
+
+## 后端项目地址：https://github.com/lingboshuiyue/eam
